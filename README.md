@@ -1,7 +1,7 @@
 # Electronic-Labs-Eagle-Library
 <p>Electronic-Labs Public Eagle PCB Footprints using Eagle 6.0+</p>
 
-##Component:
+## Component:
 <p>GPS module: eb-870a</p>
 <p>MEMS mics: mp34db02, mp45dt02</p>
 <p>GSM: sim68m</p>
